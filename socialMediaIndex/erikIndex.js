@@ -40,3 +40,5 @@ $(document).ready(colorChange);
 $(document).ready(colorChange2);
 $(document).ready(colorChange3);
 $(document).ready(closerFade);
+
+// im looking for a better way to call those functions ^ maybe wrap them in a document.ready() so I  don't have to call them at all
